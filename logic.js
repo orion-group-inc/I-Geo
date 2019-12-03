@@ -11,7 +11,7 @@ const button = document.getElementById('submit');
  
  // decleard varriables
  		const location = document.getElementById('mapsearch').value 
-    	let  APIKEY='Api key goes here'
+    	let  APIKEY='AIzaSyBogBKlQDn1W-Xch5wh0w4oabydSVH-Y_M'
         let  url='http://api.openweathermap.org/data/2.5/find?q='+ location 
         let  mainObj={};
        
